@@ -1,16 +1,31 @@
-## Hi there 👋
+# Hi, I'm Aarush verma 
 
-<!--
-**Aarushverma01/Aarushverma01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
+- B.Tech CSE (AI & ML) Student  
+- Passionate about Artificial Intelligence & Machine Learning  
+- Love coding and building real-world projects  
+- Currently learning Python, Data Structures & AI/ML  
+- Goal: To become a job-ready AI/ML Engineer  
 
-Here are some ideas to get you started:
+## Skills
+- Programming: Python, C, Java (Basics)  
+- Core Subjects: Data Structures, OOP, DBMS  
+- AI/ML: Basics of Machine Learning  
+- Tools: Git, GitHub, VS Code, MATLAB  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Projects
+- Voice Assistant using Python  
+- Data Analysis Projects (Beginner Level)  
+- Basic Machine Learning Models  
+
+## Currently Learning
+- Advanced Python  
+- Data Structures & Algorithms  
+- Machine Learning  
+
+## Contact Me
+- Email: aarushv225@gmail.com  
+- LinkedIn: https://www.linkedin.com/in/aarush-verma-a7ba2128b  
+
+## Fun Fact
+I love exploring new technologies and turning ideas into reality.
